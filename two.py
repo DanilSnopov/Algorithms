@@ -1,0 +1,1 @@
+def matchcounter(num): return num - 1 #идеальное решение.
